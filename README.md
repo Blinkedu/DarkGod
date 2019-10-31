@@ -9,9 +9,7 @@ ARPG手游《暗黑战神》学习项目
 
 #### 软件架构
 - 客户端
-
-  ![GameRoot.cs](C:\Users\HuangHailong\Desktop\GameRoot.cs.png)
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1101/010503_9e8a39da_2129064.png "GameRoot.cs.png")
 
 - 服务端
-
-  ![ServerRoot.cs](C:\Users\HuangHailong\Desktop\ServerRoot.cs.png)
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1101/010516_e3949380_2129064.png "ServerRoot.cs.png")
