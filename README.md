@@ -26,3 +26,6 @@ ARPG手游《暗黑战神》学习项目
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1101/011125_35f36ce4_2129064.png "Snipaste_2019-11-01_01-08-19.png")
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1101/011340_389f4cd5_2129064.png "Snipaste_2019-11-01_01-08-19.png")
+
+#### 特别说明
+感谢Panel老师的视频教程，本项目根据Panel老师视频教程所完成
